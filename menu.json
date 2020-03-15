@@ -1,0 +1,29 @@
+[
+    {
+        "dishtype": "DINNER",
+        "dishName": "Khichdi Kadhi",
+        "punchline": "The quick daily favourite",
+        "prepTime": 10,
+        "cookTime": 16,
+        "rating": 4,
+        "imageUrl": "1.jpg"
+    },
+    {
+        "dishtype": "SNACK",
+        "dishName": "Bombay Toast",
+        "punchline": "The Mumbai Street Food",
+        "prepTime": 10,
+        "cookTime": 1,
+        "rating": 4,
+        "imageUrl": "2.jpg"
+    },
+    {
+        "dishtype": "ANYTIME",
+        "dishName": "Aloo Paratha",
+        "punchline": "Breakfast of the North",
+        "prepTime": 10,
+        "cookTime": 16,
+        "rating": 4,
+        "imageUrl": "3.jpg"
+    }  
+]
