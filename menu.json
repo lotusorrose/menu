@@ -1,29 +1,35 @@
 [
     {
+        "id":1,
         "dishtype": "DINNER",
-        "dishName": "Khichdi Kadhi",
+        "dishname": "Khichdi Kadhi",
         "punchline": "The quick daily favourite",
-        "prepTime": 10,
-        "cookTime": 16,
+        "preptime": 10,
+        "cooktime": 16,
         "rating": 4,
-        "imageUrl": "1.jpg"
+        "imageurl": "1.jpg",
+        "details":"Eat khichdi kadhi daily"
     },
     {
+        "id":2,
         "dishtype": "SNACK",
-        "dishName": "Bombay Toast",
+        "dishname": "Bombay Toast",
         "punchline": "The Mumbai Street Food",
-        "prepTime": 10,
-        "cookTime": 1,
+        "preptime": 10,
+        "cooktime": 1,
         "rating": 4,
-        "imageUrl": "2.jpg"
+        "imageurl": "2.jpg",
+        "details":"Mumbai ka raja bhi khaye mumbai ka toast"
     },
     {
+        "id":3,
         "dishtype": "ANYTIME",
-        "dishName": "Aloo Paratha",
+        "dishname": "Aloo Paratha",
         "punchline": "Breakfast of the North",
-        "prepTime": 10,
-        "cookTime": 16,
+        "preptime": 10,
+        "cooktime": 16,
         "rating": 4,
-        "imageUrl": "3.jpg"
+        "imageurl": "3.jpg",
+        "details": "Agar tu punjab ka sher hai to kha aloo paratha"
     }  
 ]
